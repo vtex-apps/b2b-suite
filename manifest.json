@@ -1,7 +1,7 @@
 {
   "name": "b2b-suite",
   "vendor": "vtex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "B2B Suite",
   "description": "Suite of apps to add various essential B2B functionalities to your VTEX store",
   "mustUpdateAt": "2022-08-28",
@@ -25,7 +25,9 @@
       "url": "https://help-tickets.vtex.com/en/support?app=vtex.b2b-suite"
     },
     "type": "free",
-    "availableCountries": ["*"]
+    "availableCountries": [
+      "*"
+    ]
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
