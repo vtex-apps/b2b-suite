@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Fixed
+
+- Import root React admin components from dependencies and re-declare admin routes so that admin panels can load
+
 ## [0.0.1] - 2022-02-18
 
 ### Added
