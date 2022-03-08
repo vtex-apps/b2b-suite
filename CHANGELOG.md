@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.0.3] - 2022-03-08
+
 ### Fixed
 
 - Import `RequestOrganizationForm` component and re-declare store route to allow `/organization-request` storefront page to load
