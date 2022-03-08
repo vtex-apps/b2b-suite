@@ -1,0 +1,6 @@
+{
+  "store.organization-request": {
+    "title": "Organization Signup",
+    "path": "/organization-request"
+  }
+}
