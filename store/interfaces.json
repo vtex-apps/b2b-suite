@@ -1,0 +1,8 @@
+{
+  "store.organization-request": {
+    "required": ["request-organization"]
+  },
+  "request-organization": {
+    "component": "RequestOrganizationForm"
+  }
+}
