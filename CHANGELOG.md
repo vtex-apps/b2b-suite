@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added
+
+- App store assets
+
 ## [0.0.3] - 2022-03-08
 
 ### Fixed
