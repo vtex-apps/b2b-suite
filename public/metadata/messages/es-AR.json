@@ -1,0 +1,16 @@
+{
+  "name": "B2B Suite",
+  "headline": "Conjunto de aplicaciones para añadir diversas funcionalidades B2B esenciales a tu tienda VTEX",
+  "overview": "B2B Suite es una colección de aplicaciones que añaden varias funcionalidades B2B a tu tienda VTEX IO. Al instalar esta aplicación, se instalan automáticamente las siguientes aplicaciones dependientes: B2B Organizations, Storefront Permissions, B2B Checkout Settings y B2B Orders History.",
+  "features": [
+    "Cada usuario del storefront puede ahora formar parte de una organización, lo que permite que varios usuarios compartan el mismo historial de pedidos, condiciones de pago, listas de precios negociadas y catálogo segmentado.",
+    "Cada organización está dividida en uno o más centros de costo, cada uno con direcciones de envío que los usuarios del centro de costo comparten en el checkout.",
+    "A los usuarios se les puede conceder uno de varios roles B2B con niveles de permisos variables y configurables.",
+    "Los usuarios con el rol de Administrador de la organización pueden gestionar los centros de costo de su organización y los usuarios a través de la página Mi Cuenta en el storefront.",
+    "Se proporciona un formulario de solicitud y una cola de aprobación para los usuarios del storefront que deseen solicitar la creación de nuevas organizaciones."
+  ],
+  "websiteURL": "https://vtex.com/ar-es/",
+  "support": {
+    "url": "https://help-tickets.vtex.com/en/support?app=vtex.b2b-suite"
+  }
+}
