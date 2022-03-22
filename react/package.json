@@ -1,6 +1,6 @@
 {
   "name": "vtex.b2b-suite",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "UNLICENSED",
   "devDependencies": {
     "@types/node": "^13.9.8",
