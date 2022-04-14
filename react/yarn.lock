@@ -45,21 +45,33 @@ typescript@3.9.7:
   version "2.15.1"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.admin-customers@2.15.1/public/@types/vtex.admin-customers#39267fc3844ae49c4cafb81f363c9c363bc2216d"
 
-"vtex.b2b-checkout-settings@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.b2b-checkout-settings@1.0.0/public/@types/vtex.b2b-checkout-settings":
-  version "1.0.0"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.b2b-checkout-settings@1.0.0/public/@types/vtex.b2b-checkout-settings#18462f3173da600d5674b81d736370595492501e"
+"vtex.b2b-checkout-settings@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.b2b-checkout-settings@1.2.0/public/@types/vtex.b2b-checkout-settings":
+  version "1.2.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.b2b-checkout-settings@1.2.0/public/@types/vtex.b2b-checkout-settings#f8c5eb00a24c90fcb8a084bd57345ca523db98ce"
 
 "vtex.b2b-orders-history@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.b2b-orders-history@0.0.3/public/@types/vtex.b2b-orders-history":
   version "0.0.3"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.b2b-orders-history@0.0.3/public/@types/vtex.b2b-orders-history#9e353241f4f05138e45053ffcb301c88c4776a0a"
 
-"vtex.b2b-organizations@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.b2b-organizations@1.0.0/public/@types/vtex.b2b-organizations":
-  version "1.0.0"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.b2b-organizations@1.0.0/public/@types/vtex.b2b-organizations#462508b9c330ed55984b55c7f4134e86a4fd8868"
+"vtex.b2b-organizations@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.b2b-organizations@1.3.0/public/@types/vtex.b2b-organizations":
+  version "1.3.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.b2b-organizations@1.3.0/public/@types/vtex.b2b-organizations#06829fe26ef0337b53b352777d836c69c0820ac7"
 
-"vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.3/public/@types/vtex.render-runtime":
-  version "8.132.3"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.3/public/@types/vtex.render-runtime#c7dd142e384f38bd7a7c841543b73e9349fadc93"
+"vtex.b2b-quotes@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.b2b-quotes@1.0.0/public/@types/vtex.b2b-quotes":
+  version "1.0.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.b2b-quotes@1.0.0/public/@types/vtex.b2b-quotes#5861190ca84cb661fdcf25d4f30052082ac84868"
+
+"vtex.b2b-suite@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.b2b-suite@0.0.4/public/@types/vtex.b2b-suite":
+  version "0.0.4"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.b2b-suite@0.0.4/public/@types/vtex.b2b-suite#1dc0213cbddfad69e9ba9d8418fd755326a280fb"
+
+"vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.4/public/@types/vtex.render-runtime":
+  version "8.132.4"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.4/public/@types/vtex.render-runtime#66bb41bd4d342e37c9d85172aad5f7eefebfb6dc"
+
+"vtex.store@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.store@2.123.1/public/@types/vtex.store":
+  version "2.123.1"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.store@2.123.1/public/@types/vtex.store#421918405a26efef1dd207e1268ace543ffb0f66"
 
 "vtex.storefront-permissions-ui@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.storefront-permissions-ui@1.0.0/public/@types/vtex.storefront-permissions-ui":
   version "1.0.0"

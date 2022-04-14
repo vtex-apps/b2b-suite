@@ -2,5 +2,17 @@
   "store.organization-request": {
     "title": "Organization Signup",
     "path": "/organization-request"
+  },
+  "store.b2b-quotes": {
+    "title": "My Quotes and Carts",
+    "path": "/b2b-quotes"
+  },
+  "store.create-b2b-quote": {
+    "title": "Create Quote",
+    "path": "/b2b-quotes/create"
+  },
+  "store.b2b-quote-details": {
+    "title": "Quote Details",
+    "path": "/b2b-quotes/:id"
   }
 }

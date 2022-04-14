@@ -4,5 +4,20 @@
   },
   "request-organization": {
     "component": "RequestOrganizationForm"
+  },
+  "store.b2b-quotes": {
+    "required": ["quotes-table"]
+  },
+  "quotes-table": {
+    "component": "QuotesTable"
+  },
+  "store.create-b2b-quote": {
+    "required": ["quote-details"]
+  },
+  "store.b2b-quote-details": {
+    "required": ["quote-details"]
+  },
+  "quote-details": {
+    "component": "QuoteDetails"
   }
 }

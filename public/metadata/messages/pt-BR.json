@@ -1,13 +1,14 @@
 {
   "name": "B2B Suite",
   "headline": "Conjunto de aplicativos para adicionar várias funcionalidades B2B essenciais à sua loja VTEX",
-  "overview": "O B2B Suite é uma coleção de aplicativos que adicionam várias funcionalidades B2B à sua loja VTEX IO. Ao instalá-lo, os seguintes aplicativos são instalados automaticamente: B2B Organizations, Storefront Permissions, B2B Checkout Settings e B2B Orders History",
+  "overview": "O B2B Suite é uma coleção de aplicativos que adicionam várias funcionalidades B2B à sua loja VTEX IO. Ao instalá-lo, os seguintes aplicativos são instalados automaticamente: B2B Organizations, Storefront Permissions, B2B Checkout Settings, B2B Orders History e B2B Quotes",
   "features": [
-    "Cada usuário do storefront pode fazer parte de uma organização, permitindo que vários usuários compartilhem o mesmo histórico de pedidos, condições de pagamento, listas de preços negociados e catálogo segmentado.",
-    "Cada organização é dividida em um ou mais centros de custo – cada um com os endereços de envio que os usuários do centro de custo compartilham no checkout.",
+    "Cada usuário do storefront pode fazer parte de uma organização, permitindo que vários usuários compartilhem o mesmo histórico de pedidos, condições de pagamento, cotações, carrinhos salvos, listas de preços negociados e catálogo segmentado.",
+    "Cada organização é dividida em um ou mais centros de custo - cada um com os endereços de envio que os usuários do centro de custo compartilham no checkout.",
     "É possível atribuir aos usuários um dos vários perfis de acesso B2B com níveis de permissão diferentes (e configuráveis).",
     "Os usuários com a função de Admin da Organização podem gerenciar os Centros de Custo e os usuários de sua Organização na página Minha Conta, no storefront.",
-    "Um formulário de solicitação e uma fila de aprovação são fornecidos para os usuários do storefront que desejam solicitar a criação de novas Organizações."
+    "Um formulário de solicitação e uma fila de aprovação são fornecidos para os usuários do storefront que desejam solicitar a criação de novas Organizações.",
+    "Os usuários da organização podem salvar carrinhos para compras futuras, bem como negociar os preços calculados com os vendedores."
   ],
   "websiteURL": "https://vtex.com/br-pt",
   "support": {
