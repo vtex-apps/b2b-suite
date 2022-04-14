@@ -64,5 +64,16 @@
   "admin.app.profile-system": {
     "component": "Customers",
     "path": "/admin/app/customers"
+  },
+  "admin.app.b2b-quotes": {
+    "path": "/admin/app/b2b-quotes/*",
+    "around": ["quotesLayout"]
+  },
+  "admin.app.b2b-quotes.settings": {
+    "component": "B2BQuotesAdmin",
+    "path": "/admin/app/b2b-quotes/settings"
+  },
+  "quotesLayout": {
+    "component": "B2BQuotesAdminLayout"
   }
 }

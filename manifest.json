@@ -9,12 +9,13 @@
     "postreleasy": "vtex publish"
   },
   "dependencies": {
-    "vtex.b2b-organizations": "1.x",
-    "vtex.b2b-checkout-settings": "1.x",
-    "vtex.storefront-permissions-ui": "1.x",
     "vtex.admin-customers": "2.x",
+    "vtex.b2b-checkout-settings": "1.x",
     "vtex.b2b-orders-history": "0.x",
-    "vtex.store": "2.x"
+    "vtex.b2b-organizations": "1.x",
+    "vtex.b2b-quotes": "1.x",
+    "vtex.store": "2.x",
+    "vtex.storefront-permissions-ui": "1.x"
   },
   "builders": {
     "admin": "0.x",
@@ -27,9 +28,7 @@
       "url": "https://help-tickets.vtex.com/en/support?app=vtex.b2b-suite"
     },
     "type": "free",
-    "availableCountries": [
-      "*"
-    ]
+    "availableCountries": ["*"]
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
