@@ -38,6 +38,27 @@ Make sure you read each app’s documentation to learn more about their capabili
 
 For additional functionalities, you can also install the [Quick Order](https://developers.vtex.com/vtex-developer-docs/docs/vtex-quickorder) app, which creates a custom page in your store aimed at purchases in bulk, offering tools such as uploading a spreadsheet to make bulk orders more agile.
 
+## Frequently Asked Questions
+
+### How do I fix the schema issue?
+
+If you are getting some alerts on B2B apps regarding a schema issue, please follow the steps below:
+
+1) Open the Admin panel and access the Master Data link on the left side of the screen.
+   ![Alt text](assets/schema-1.png "First step")
+2) After login, click on the "Advanced settings" as the image below shows:
+   ![Alt text](assets/schema-2.png "Second step")
+3) You should click on the last link in the list:
+   ![Alt text](assets/schema-3.png "Third step")
+4) Click on Data Entities and then find the CL row and click on the "Edit" button as the image below shows:
+   ![Alt text](assets/schema-4.png "Fourth step")
+5) You should find the field that is not checked as nullable and check it: ***Only the e-mail field must be UNCHECKED***
+   ![Alt text](assets/schema-5.png "Fifth step")
+6) Click on "Save"
+  ![Alt text](assets/schema-6.png "Sixth step")
+7) You should click on Publish button to make the changes valid:
+   ![Alt text](assets/schema-7.png "Seventh step")
+
 <!-- DOCS-IGNORE:start -->
 
 ## Contributors ✨
