@@ -36,7 +36,7 @@ Make sure to read the documentation for each app to learn more about their featu
 
 > ⚠️ After installing **B2B Suite**, make sure to hide the default **Order History** link within **My Account** by configuring `vtex.my-account`. Otherwise, **B2B Orders History** will not work as expected. You can do this at `https://{{accountName}}.myvtex.com/admin/apps/vtex.my-account@1.x/setup/`, by unselecting the **Visible** option in the **Orders** section.
 
-For additional features, you can also install the [Quick Order](https://developers.vtex.com/docs/guides/vtex-quickorder) app, which creates a custom page in your store aimed at bulk purchases, offering tools such as uploading a spreadsheet to make bulk orders more agile.
+For additional features, you can also install the [Quick Order](https://developers.vtex.com/docs/apps/vtex.quickorder) app, which creates a custom page in your store aimed at bulk purchases, offering tools such as uploading a spreadsheet to make bulk orders more agile.
 
 ## Frequently Asked Questions
 
