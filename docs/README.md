@@ -47,10 +47,10 @@ If you are getting alerts on B2B apps regarding a schema issue, please follow th
 1) Open the VTEX Admin, and click the Master Data link on the left side of the screen. ![Alt text](https://raw.githubusercontent.com/vtex-apps/b2b-suite/main/docs/assets/schema-1.png "Step one") 
 2) After logging in, click **Advanced settings** as shown in the image below: ![Alt text](https://raw.githubusercontent.com/vtex-apps/b2b-suite/main/docs/assets/schema-2.png "Step two") 
 3) Click the last link in the list: ![Alt text](https://raw.githubusercontent.com/vtex-apps/b2b-suite/main/docs/assets/schema-3.png "Step three") 
-4) Click **Data Entities**, find the CL row, and click the **Edit** button as shown in the image below: ![Alt text](https://raw.githubusercontent.com/vtex-apps/b2b-suite/main/docs/assets/schema-4.png "Step four") 
-5) Find the unchecked field that is nullable and check it. Only the **email** field must be unchecked. ![Alt text](https://raw.githubusercontent.com/vtex-apps/b2b-suite/main/docs/assets/schema-5.png "Step five") 
-6) Click **Save** ![Alt text](https://raw.githubusercontent.com/vtex-apps/b2b-suite/main/docs/assets/schema-6.png "Step six") 
-7) Click the **Publish** button to apply the changes: ![Alt text](https://raw.githubusercontent.com/vtex-apps/b2b-suite/main/docs/assets/schema-7.png "Step seven")
+4. Click **Data Entities**, find the CL row, and click the **Edit** button as shown in the image below: ![Alt text](https://raw.githubusercontent.com/vtex-apps/b2b-suite/main/docs/assets/schema-4.png "Step four") 
+5. Find the unchecked field that is nullable and check it. Only the **email** field must be unchecked. ![Alt text](https://raw.githubusercontent.com/vtex-apps/b2b-suite/main/docs/assets/schema-5.png "Step five") 
+6. Click **Save** ![Alt text](https://raw.githubusercontent.com/vtex-apps/b2b-suite/main/docs/assets/schema-6.png "Step six") 
+7. Click the **Publish** button to apply the changes: ![Alt text](https://raw.githubusercontent.com/vtex-apps/b2b-suite/main/docs/assets/schema-7.png "Step seven")
 
 <!-- DOCS-IGNORE:start -->
 
