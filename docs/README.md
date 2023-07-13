@@ -30,7 +30,7 @@ By installing the **B2B Suite**, you have access to seven apps with the followin
 | [B2B Quotes](https://developers.vtex.com/vtex-developer-docs/docs/vtex-b2b-quotes) | Enables B2B users to create quotes and saved carts which are then shared with the other members of their organization. Users with the appropriate storefront permissions can modify quotes to apply discounts or change quantities, and the resulting quote can then be used to place an order. |
 | [B2B Checkout Settings](https://developers.vtex.com/vtex-developer-docs/docs/vtex-b2b-checkout-settings) | Extends the checkout experience for users who are members of B2B organizations. With this app, you can allow specific payment methods for the user’s organization, provide pre-filled addresses based on each user’s cost center, include a purchase order number in the order, and allow customers to create an order quote before making an actual purchase. |
 | [B2B Orders History](https://github.com/vtex-apps/b2b-orders-history) | Provides a new **Orders** page under **My Account** so that B2B users can view all prior orders placed by users in their organization or cost center, depending on their role. |
-| [Admin Customers](https://developers.vtex.com/docs/apps/vtex.b2b-orders-history) | Provides additional customer data management capabilities on the VTEX Admin, allowing store administrators to create, edit and search for customers. |
+| [Admin Customers](https://developers.vtex.com/docs/apps/vtex.admin-customers) | Provides additional customer data management capabilities on the VTEX Admin, allowing store administrators to create, edit and search for customers. |
 
 Make sure you read each app’s documentation to learn more about their capabilities and configurations.
 
