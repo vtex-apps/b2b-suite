@@ -9,7 +9,7 @@
     "postreleasy": "vtex publish"
   },
   "dependencies": {
-    "vtex.admin-customers": "2.x",
+    "vtex.b2b-admin-customers": "0.x",
     "vtex.b2b-checkout-settings": "1.x",
     "vtex.b2b-orders-history": "0.x",
     "vtex.b2b-organizations": "1.x",
