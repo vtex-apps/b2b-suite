@@ -1,3 +1,3 @@
-import { index } from 'vtex.admin-customers'
+import { index } from 'vtex.b2b-admin-customers'
 
 export default index
