@@ -6,6 +6,6 @@ metadata:
     github.com/project-slug: vtex-apps/b2b-suite
 spec:
   system: b2b-suite
-  type: backend-api
+  type: frontend-ui
   lifecycle: maintenance
   owner: b-2-b-enabler
