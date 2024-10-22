@@ -42,7 +42,7 @@ For additional features, you can also install the [Quick Order](https://develope
 
 ### How do I fix the schema issue?
 
-For more details on how to resolve schema-related issues, please refer to the article [I can't fix the schema error in B2B apps](https://help.vtex.com/en/tutorial/nao-consigo-corrigir-o-erro-de-schema-em-aplicativos-b2b--WkjJZSnGXCiqmLhg4b0OR).
+For more details on how to resolve schema-related issues, please refer to the article [I can't fix the schema error in B2B apps](https://help.vtex.com/en/tutorial/i-cant-fix-the-schema-error-in-b2b-apps--WkjJZSnGXCiqmLhg4b0OR).
 
 <!-- DOCS-IGNORE:start -->
 
