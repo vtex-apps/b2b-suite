@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - Add catalog-info.yaml
 
-## [0.3.1] - 2024-10-22
+## [0.3.2] - 2024-10-22
 
 ### Changed
 - Updated section frequently questions
