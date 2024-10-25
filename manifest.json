@@ -1,7 +1,7 @@
 {
   "name": "b2b-suite",
   "vendor": "vtex",
-  "version": "0.3.2",
+  "version": "0.3.1",
   "title": "B2B Suite",
   "description": "Suite of apps to add various essential B2B functionalities to your VTEX store",
   "mustUpdateAt": "2022-08-28",
