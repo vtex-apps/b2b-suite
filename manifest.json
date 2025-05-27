@@ -9,13 +9,13 @@
     "postreleasy": "vtex publish"
   },
   "dependencies": {
-    "vtex.b2b-admin-customers": "0.x",
-    "vtex.b2b-checkout-settings": "1.x",
-    "vtex.b2b-orders-history": "0.x",
-    "vtex.b2b-organizations": "1.x",
-    "vtex.b2b-quotes": "1.x",
+    "vtex.b2b-admin-customers": "1.x",
+    "vtex.b2b-checkout-settings": "2.x",
+    "vtex.b2b-orders-history": "1.x",
+    "vtex.b2b-organizations": "2.x",
+    "vtex.b2b-quotes": "2.x",
     "vtex.store": "2.x",
-    "vtex.storefront-permissions-ui": "1.x"
+    "vtex.storefront-permissions-ui": "2.x"
   },
   "builders": {
     "admin": "0.x",
