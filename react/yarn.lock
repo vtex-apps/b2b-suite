@@ -41,9 +41,9 @@ typescript@3.9.7:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.7.tgz#98d600a5ebdc38f40cb277522f12dc800e9e25fa"
   integrity sha512-BLbiRkiBzAwsjut4x/dsibSTB6yWpwT5qWmC2OfuCg3GgVQCSgMs4vEctYPhsaGtd0AeuuHMkjZ2h2WG8MSzRw==
 
-"vtex.admin-customers@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.admin-customers@2.15.1/public/@types/vtex.admin-customers":
-  version "2.15.1"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.admin-customers@2.15.1/public/@types/vtex.admin-customers#39267fc3844ae49c4cafb81f363c9c363bc2216d"
+"vtex.b2b-admin-customers@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.b2b-admin-customers@0.0.2/public/@types/vtex.b2b-admin-customers":
+  version "0.0.2"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.b2b-admin-customers@0.0.2/public/@types/vtex.b2b-admin-customers#1b6c3e11045e3b76a614d4654056a8a23e6a8af4"
 
 "vtex.b2b-checkout-settings@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.b2b-checkout-settings@1.2.0/public/@types/vtex.b2b-checkout-settings":
   version "1.2.0"
